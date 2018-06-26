@@ -11,6 +11,7 @@ namespace helloworld_test
         static void Main(string[] args)
         {
             Console.WriteLine("helloworld!");
+            Console.WriteLine("二回目のプッシュ");
         }
     }
 }
